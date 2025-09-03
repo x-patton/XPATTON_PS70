@@ -11,7 +11,9 @@ body {
   padding: 2% 10%;;
 }
 
-p {font-size: 16px;}
+p {font: "lato";
+  font-size: 22px;}
+
 .margin {margin-bottom: 30px;}
 
 a {
@@ -41,8 +43,6 @@ nav {
   margin-left: 50px;
   margin-right: 50px;
   color: #212222;
-  
-  
 }
 
 .nav-link {
@@ -63,7 +63,7 @@ nav {
   background-color: #f9e4bc;
   transition: 0.3s;
   float:left;
-  margin-right: 50px;
+  margin-right:50px;
 }
 
 #btn {
